@@ -1,0 +1,233 @@
+<div align="center">
+
+<img
+  src="https://avatars.githubusercontent.com/u/293111696?v=4"
+  alt="Vionex Việt Nam"
+  width="110"
+/>
+
+# Vionex Việt Nam
+
+### Software Studio · Web Apps · Business Systems · Automation
+
+We design and build practical software for businesses, digital products, and operational workflows.
+
+[Website](https://vionex.software)
+·
+[Facebook](https://www.facebook.com/vionex.software)
+·
+[TikTok](https://www.tiktok.com/@vionex.software)
+·
+[Email](mailto:contact@vionex.software)
+
+</div>
+
+---
+
+## About Vionex
+
+**Vionex Việt Nam** is a software studio focused on designing and building digital products, business systems, and operational software.
+
+We work with businesses and product teams to turn real operational problems into software that is practical, maintainable, and ready for real-world use.
+
+Our work includes:
+
+- **Web applications** — dashboards, portals, SaaS platforms, and business systems
+- **Mobile applications** — Android and iOS products
+- **Business systems** — CRM, internal management tools, operational platforms
+- **Automation** — workflow automation, integrations, and repetitive-process reduction
+- **Custom software** — systems designed around specific business requirements
+
+Our engineering approach prioritizes:
+
+**Usability · Maintainability · Security · Reliability · Operational value**
+
+---
+
+## Selected Products
+
+| Product | Description | Website |
+|---|---|---|
+| **Game On** | Social and tournament platform for gaming communities | [gameon.vionex.software](https://gameon.vionex.software) |
+| **GuideHub** | CRM and operations platform for tour guide management | [guidehub.vionex.software](https://guidehub.vionex.software) |
+| **PowerTeam** | Community, member, referral, training, and activity management platform | [powerteam.vionex.software](https://powerteam.vionex.software) |
+| **Forecash** | Cash flow visibility and forecasting system | [forecash.vionex.software](https://forecash.vionex.software) |
+
+---
+
+## Research & Development
+
+Alongside commercial products, Vionex develops experimental engineering projects and internal developer tools.
+
+### QinForge
+
+A desktop development environment and local service orchestrator designed to simplify local development workflows.
+
+Core areas include:
+
+- Project management
+- Runtime management
+- Docker integration
+- Local services
+- Port management
+- Development environment automation
+
+### Vion Language
+
+An experimental programming language project developed under Vionex.
+
+[View Vion Language on GitHub →](https://github.com/VionexSoftware/vion-lang)
+
+---
+
+## What We Build
+
+Vionex works on software where technology needs to support a real workflow, operation, or business process.
+
+Typical projects include:
+
+- Corporate websites
+- Business web applications
+- CRM systems
+- Internal management systems
+- Customer portals
+- Mobile applications
+- SaaS products
+- MVP development
+- API integrations
+- Workflow automation
+- Infrastructure and deployment
+- Custom operational software
+
+---
+
+## Engineering
+
+Our product and infrastructure work spans multiple technologies depending on the requirements of each project.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud" />
+</p>
+
+### Engineering Principles
+
+1. **Solve the real problem**
+
+   Technology should solve an actual operational or product problem, not exist for its own sake.
+
+2. **Ship usable software**
+
+   A working product used by real people is more valuable than an over-engineered architecture that never ships.
+
+3. **Design for maintainability**
+
+   Systems should remain understandable, maintainable, and extensible as they grow.
+
+4. **Automate repetitive operations**
+
+   Deployment, testing, infrastructure, and repetitive workflows should be automated wherever practical.
+
+5. **Treat reliability and security as product requirements**
+
+   Security, data ownership, monitoring, backups, and system reliability should be considered from the beginning.
+
+---
+
+## How We Work
+
+Our typical software development process follows a practical product lifecycle:
+
+```text
+Problem
+   ↓
+Discovery
+   ↓
+Requirements
+   ↓
+Solution Design
+   ↓
+UI / UX
+   ↓
+Development
+   ↓
+Testing
+   ↓
+Deployment
+   ↓
+Monitoring
+   ↓
+Iteration
+```
+
+We focus on understanding the workflow before deciding how the software should be built.
+
+---
+
+## Open Source
+
+Vionex selectively publishes engineering experiments, developer tools, and projects that may be useful to the broader developer community.
+
+Currently available:
+
+- [**Vion Language**](https://github.com/VionexSoftware/vion-lang) — Experimental programming language
+
+More projects may be open-sourced as they become stable enough to maintain publicly.
+
+---
+
+## Work With Vionex
+
+We work with organizations that need software designed around their actual operations rather than forcing their workflow into generic tools.
+
+Vionex may be a good fit when you need:
+
+- A business system built around a specific workflow
+- A web or mobile product developed from an idea
+- An existing manual process turned into software
+- Multiple tools integrated into one workflow
+- An MVP built and prepared for future development
+- An existing system modernized or rebuilt
+- Technical infrastructure for a growing digital product
+
+---
+
+## Contact
+
+**Vionex Việt Nam**
+
+Website  
+[vionex.software](https://vionex.software)
+
+Email  
+[contact@vionex.software](mailto:contact@vionex.software)
+
+Facebook  
+[facebook.com/vionex.software](https://www.facebook.com/vionex.software)
+
+TikTok  
+[tiktok.com/@vionex.software](https://www.tiktok.com/@vionex.software)
+
+GitHub  
+[github.com/VionexSoftware](https://github.com/VionexSoftware)
+
+---
+
+<div align="center">
+
+### Vionex Việt Nam
+
+**Building software for real operations.**
+
+Web · App · Business Systems · Automation
+
+[vionex.software](https://vionex.software)
+
+</div>
